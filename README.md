@@ -40,8 +40,8 @@ application.rb
       :address => "smtp.gmail.com",
       :domain => "mail.google.com",
       :port => "587",
-      :user_name => "ramesh.sabbanis@gmail.com",
-      :password => "rams341990",
+      :user_name => "ramesh.win@gmail.com",
+      :password => "password",
       :authentication => "login",
       :enable_starttls_auto => true
     }
